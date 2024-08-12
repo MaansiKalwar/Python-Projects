@@ -17,3 +17,21 @@ OUTPUT:
 
 
 ![Screenshot 2024-08-11 143452](https://github.com/user-attachments/assets/2157db16-53ab-4f4e-945d-cb220615c1e6)
+
+------------------------
+Guessing Game
+-----------------------
+Key Points:
+
+- The program prompts the user to enter a number (top_of_range). It checks if the input is a valid positive integer. If not, the program asks the user to input a valid number and exits.
+- Once validated, the input is converted to an integer and stored as top_of_range. This number defines the upper limit of the range for the random number that will be generated.
+- The program generates a random number between 0 and the top_of_range using random.randint(0, top_of_range) and stores it in random_number.
+- The program enters an infinite loop where it prompts the user to guess the randomly generated number. It tracks the number of guesses with the guesses variable, which increments with each guess.
+- For each guess, the program checks if the input is a number. If it is not, the user is asked to enter a valid number again. If the guess is correct, the program congratulates the user and breaks the loop. If 
+  incorrect, it gives feedback on whether the guess was too high or too low.
+- Once the user guesses the correct number, the program exits the loop and displays the total number of guesses it took for the user to find the correct number. 
+
+OUTPUT:
+
+
+![Screenshot 2024-08-12 225639](https://github.com/user-attachments/assets/b26ce502-a98a-4538-b81e-1144ffb33e73)
