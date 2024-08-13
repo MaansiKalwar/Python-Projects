@@ -35,3 +35,18 @@ OUTPUT:
 
 
 ![Screenshot 2024-08-12 225639](https://github.com/user-attachments/assets/b26ce502-a98a-4538-b81e-1144ffb33e73)
+------------------------------------------------------------------
+Rock, Ppaer and Scissor Game!
+--------------------------------------------------------------
+Key Points:
+
+= The code continuously prompts the user to enter either "Rock," "Paper," "Scissors," or "Q" to quit. It uses a while True loop to keep the game running until the user decides to quit by typing "Q".
+- The computer randomly picks an option ("rock," "paper," or "scissors") by generating a random number (0, 1, or 2) and selecting the corresponding element from the options list.
+- The code compares the user's choice with the computer's choice. If the user's choice beats the computer's (according to the game rules), the user wins, and their win count (user_wins) is incremented. Otherwise, the computer wins, and the computer's win count (computer_wins) is incremented.
+- When the user decides to quit (by typing "Q"), the game ends, and the code prints out the total number of wins for both the user and the computer before displaying a "Goodbye!" message.
+
+OUTPUT:
+
+
+![Screenshot 2024-08-13 222109](https://github.com/user-attachments/assets/8ca50c19-5f01-4f80-942b-e602452c8d98)
+
