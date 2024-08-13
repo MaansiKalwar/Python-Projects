@@ -40,7 +40,7 @@ Rock, Ppaer and Scissor Game!
 --------------------------------------------------------------
 Key Points:
 
-= The code continuously prompts the user to enter either "Rock," "Paper," "Scissors," or "Q" to quit. It uses a while True loop to keep the game running until the user decides to quit by typing "Q".
+- The code continuously prompts the user to enter either "Rock," "Paper," "Scissors," or "Q" to quit. It uses a while True loop to keep the game running until the user decides to quit by typing "Q".
 - The computer randomly picks an option ("rock," "paper," or "scissors") by generating a random number (0, 1, or 2) and selecting the corresponding element from the options list.
 - The code compares the user's choice with the computer's choice. If the user's choice beats the computer's (according to the game rules), the user wins, and their win count (user_wins) is incremented. Otherwise, the computer wins, and the computer's win count (computer_wins) is incremented.
 - When the user decides to quit (by typing "Q"), the game ends, and the code prints out the total number of wins for both the user and the computer before displaying a "Goodbye!" message.
