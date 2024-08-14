@@ -49,4 +49,18 @@ OUTPUT:
 
 
 ![Screenshot 2024-08-13 222109](https://github.com/user-attachments/assets/8ca50c19-5f01-4f80-942b-e602452c8d98)
+------------------------------------------------------------------------------------------------------------------
+Adventure Game!
+--------------------
+Key Points:
+
+- The code begins by asking the user for their name and then greets them by including their name in a welcome message.
+- The user is presented with a choice to go left or right on a dirt road. Based on their choice, the adventure continues with different scenarios.
+-  The code uses conditional statements (if, elif, else) to handle the user's decisions, leading to various outcomes (winning, losing, or invalid choices).
+-  After the adventure concludes, the code thanks the user for participating by repeating their name.
+
+  OUTPUT:
+
+
+![Screenshot 2024-08-14 215608](https://github.com/user-attachments/assets/5a3f59e6-d78a-4d3f-91aa-6f9f866e3a27)
 
