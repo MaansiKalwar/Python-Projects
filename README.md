@@ -36,7 +36,7 @@ OUTPUT:
 
 ![Screenshot 2024-08-12 225639](https://github.com/user-attachments/assets/b26ce502-a98a-4538-b81e-1144ffb33e73)
 ------------------------------------------------------------------
-Rock, Ppaer and Scissor Game!
+Rock, Paper and Scissor Game!
 --------------------------------------------------------------
 Key Points:
 
@@ -63,4 +63,25 @@ Key Points:
 
 
 ![Screenshot 2024-08-14 215608](https://github.com/user-attachments/assets/5a3f59e6-d78a-4d3f-91aa-6f9f866e3a27)
+---------------------------------------------------------------------------------------------------------------
+PIG !
+----------------
+Key Points:
+
+- The `roll()` function generates a random number between 1 and 6, simulating a dice roll.
+- The program prompts the user to input the number of players (between 2 and 4) and validates the input to ensure it's within the allowed range.
+- The program creates a list `player_scores` to track each player's score, initialized to 0 for all players.
+- The main game loop continues until one player's score reaches or exceeds the target score of 50 points.
+- During each player's turn, they decide whether to roll the dice or end their turn. If they roll a 1, their turn ends and they score 0 for that round. Otherwise, their roll value is added to their current score.
+- After each player's turn, their accumulated score for that round is added to their total score.
+- Once a player's score reaches 50 or more, the game ends, and the player with the highest score is declared the winner.
+
+  OUTPUT:
+
+
+  ![Screenshot 2024-08-15 231443](https://github.com/user-attachments/assets/2d17c5ee-68f0-4608-abca-bc12544dc187)
+  -----------------------------------------
+
+
+
 
