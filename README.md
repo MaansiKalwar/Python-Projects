@@ -90,6 +90,7 @@ Key Points:
 - The key is loaded using load_key(), and a Fernet object (fer) is created to handle cryptographic operations.
 - The view() function reads the passwords.txt file, decrypts the stored passwords using fer, and prints out the usernames and passwords.
 - The add() function takes an account name and password from the user, encrypts the password using fer, and writes the encrypted password to the passwords.txt file.
-- 
+- The program runs in an infinite loop, prompting the user to either view existing passwords, add new passwords, or quit the program.
+-  The loop breaks when the user inputs 'q', ending the program.
 
 
