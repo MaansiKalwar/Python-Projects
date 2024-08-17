@@ -86,6 +86,8 @@ Password Manager!
 Key Points:
 
 - The code imports Fernet from the cryptography.fernet module to handle encryption and decryption.
-
+- The load_key() function reads the encryption key from a file called key.key and returns it.
+- The key is loaded using load_key(), and a Fernet object (fer) is created to handle cryptographic operations.
+- 
 
 
