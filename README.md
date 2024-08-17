@@ -88,6 +88,8 @@ Key Points:
 - The code imports Fernet from the cryptography.fernet module to handle encryption and decryption.
 - The load_key() function reads the encryption key from a file called key.key and returns it.
 - The key is loaded using load_key(), and a Fernet object (fer) is created to handle cryptographic operations.
+- The view() function reads the passwords.txt file, decrypts the stored passwords using fer, and prints out the usernames and passwords.
+- The add() function takes an account name and password from the user, encrypts the password using fer, and writes the encrypted password to the passwords.txt file.
 - 
 
 
