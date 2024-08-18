@@ -92,5 +92,9 @@ Key Points:
 - The add() function takes an account name and password from the user, encrypts the password using fer, and writes the encrypted password to the passwords.txt file.
 - The program runs in an infinite loop, prompting the user to either view existing passwords, add new passwords, or quit the program.
 -  The loop breaks when the user inputs 'q', ending the program.
+-  If the user inputs anything other than 'view', 'add', or 'q', the program prints "Invalid mode" and prompts again.
+-   Passwords are stored in the file passwords.txt in an encrypted format to ensure security.
+-   The program uses file operations to store and retrieve passwords, making the data persistent across different runs of the program.
+
 
 
