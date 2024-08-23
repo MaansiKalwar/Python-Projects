@@ -20,7 +20,7 @@ OUTPUT:
 
 ------------------------
 Guessing Game
------------------------
+------------------------
 Key Points:
 
 - The program prompts the user to enter a number (top_of_range). It checks if the input is a valid positive integer. If not, the program asks the user to input a valid number and exits.
