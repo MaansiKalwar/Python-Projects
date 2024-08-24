@@ -37,7 +37,7 @@ OUTPUT:
 ![Screenshot 2024-08-12 225639](https://github.com/user-attachments/assets/b26ce502-a98a-4538-b81e-1144ffb33e73)
 ------------------------------------------------------------------
 Rock, Paper and Scissor Game!
---------------------------------------------------------------
+----------------------------------------------------------------
 Key Points:
 
 - The code continuously prompts the user to enter either "Rock," "Paper," "Scissors," or "Q" to quit. It uses a while True loop to keep the game running until the user decides to quit by typing "Q".
