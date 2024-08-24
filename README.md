@@ -80,7 +80,7 @@ Key Points:
 
 
   ![Screenshot 2024-08-15 231443](https://github.com/user-attachments/assets/2d17c5ee-68f0-4608-abca-bc12544dc187)
-  ------------------------------------------
+  -------------------------------------------
 Password Manager!
 -----------------------------------------------
 Key Points:
