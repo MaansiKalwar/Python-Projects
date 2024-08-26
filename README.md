@@ -65,7 +65,7 @@ Key Points:
 ![Screenshot 2024-08-14 215608](https://github.com/user-attachments/assets/5a3f59e6-d78a-4d3f-91aa-6f9f866e3a27)
 ----------------------------------------------------------------------------------------------------------------
 PIG !
-----------------
+---------------
 Key Points:
 
 - The `roll()` function generates a random number between 1 and 6, simulating a dice roll.
