@@ -1,7 +1,7 @@
 Python Practice Projects
 ------------------
 Quiz Game
-------------------
+-----------------
 Key Points:
 
 - The program greets the user with "Welcome to my computer quiz!" and asks if they want to play the quiz using input().
