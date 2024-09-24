@@ -97,6 +97,7 @@ Key Points:
 -   The program uses file operations to store and retrieve passwords, making the data persistent across different runs of the program.
 -   This code provides basic functionality for a password manager, ensuring that sensitive information is securely encrypted and decrypted when needed​(Password Manager).
   
+  
 
 
 
