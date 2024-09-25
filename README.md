@@ -98,4 +98,3 @@ Key Points:
 -   This code provides basic functionality for a password manager, ensuring that sensitive information is securely encrypted and decrypted when needed​(Password Manager).
 
 
-
