@@ -29,7 +29,7 @@ Key Points:
 - The program enters an infinite loop where it prompts the user to guess the randomly generated number. It tracks the number of guesses with the guesses variable, which increments with each guess.
 - For each guess, the program checks if the input is a number. If it is not, the user is asked to enter a valid number again. If the guess is correct, the program congratulates the user and breaks the loop. If 
   incorrect, it gives feedback on whether the guess was too high or too low.
-- Once the user guesses the correct number, the program exits the loop and displays the total number of guesses it took for the user to find the correct number. 
+- Once the user guesses the correct number, the program exits the loop and displays the total number of guesses it took for the user to find the correct number.  
 
 OUTPUT:
 
