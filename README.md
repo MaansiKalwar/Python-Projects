@@ -94,5 +94,5 @@ Key Points:
 -  The loop breaks when the user inputs 'q', ending the program.
 -  If the user inputs anything other than 'view', 'add', or 'q', the program prints "Invalid mode" and prompts again.
 -   Passwords are stored in the file passwords.txt in an encrypted format to ensure security.
--   The program uses file operations to store and retrieve passwords, making the data persistent across different runs of the program.
+-   The program uses file operations to store and retrieve passwords, making the data persistent across different runs of the program. 
 -   This code provides basic functionality for a password manager, ensuring that sensitive information is securely encrypted and decrypted when needed​(Password Manager). 
