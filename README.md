@@ -50,7 +50,7 @@ OUTPUT:
 
 ![Screenshot 2024-08-13 222109](https://github.com/user-attachments/assets/8ca50c19-5f01-4f80-942b-e602452c8d98)
 ----------------------------------------------------------------------------------------------------------------  
-Adventure Game!
+Adventure Game! 
 --------------------
 Key Points:
 
