@@ -83,7 +83,7 @@ Key Points:
   --------------------------------------------
 Password Manager!   
 ----------------------------------------------  
-Key Points:
+Key Points: 
 
 - The code imports Fernet from the cryptography.fernet module to handle encryption and decryption.
 - The load_key() function reads the encryption key from a file called key.key and returns it.
