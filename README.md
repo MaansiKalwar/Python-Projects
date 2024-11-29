@@ -13,7 +13,7 @@ Key Points:
 - After all questions are answered, the program prints the total number of correct answers using print("You got " + str(score) + " questions correct!")
 - The program calculates and prints the user's score as a percentage of total questions using print("You got " + str(score/6*100) + "%.").
  
-OUTPUT: 
+OUTPUT:  
 
 
 ![Screenshot 2024-08-11 143452](https://github.com/user-attachments/assets/2157db16-53ab-4f4e-945d-cb220615c1e6)
