@@ -76,7 +76,7 @@ Key Points:
 - After each player's turn, their accumulated score for that round is added to their total score.
 - Once a player's score reaches 50 or more, the game ends, and the player with the highest score is declared the winner.
 
-  OUTPUT: 
+  OUTPUT:  
 
 
   ![Screenshot 2024-08-15 231443](https://github.com/user-attachments/assets/2d17c5ee-68f0-4608-abca-bc12544dc187) 
