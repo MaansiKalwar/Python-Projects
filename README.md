@@ -8,7 +8,7 @@ Key Points:
 - The user's response is checked; if they don't respond with "yes" (case-insensitive), the program terminates using quit().
 - If the user chooses to play, the game begins with a message, and the score variable is initialized to 0.
 - The program asks six questions about computer-related acronyms (CPU, GPU, RAM, PSU, LAN, WAN). 
-- For each question, the user's answer is collected via input().
+- For each question, the user's answer is collected via input(). 
 - Each answer is compared to the correct response (case-insensitive). If correct, "Correct!" is printed, and the score is incremented by 1; otherwise, "Incorrect!" is displayed.
 - After all questions are answered, the program prints the total number of correct answers using print("You got " + str(score) + " questions correct!")
 - The program calculates and prints the user's score as a percentage of total questions using print("You got " + str(score/6*100) + "%.").
