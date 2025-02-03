@@ -21,7 +21,7 @@ OUTPUT:
 -----------------------
 Guessing Game  
 -----------------------
-Key Points:
+Key Points: 
 
 - The program prompts the user to enter a number (top_of_range). It checks if the input is a valid positive integer. If not, the program asks the user to input a valid number and exits.
 - Once validated, the input is converted to an integer and stored as top_of_range. This number defines the upper limit of the range for the random number that will be generated.
