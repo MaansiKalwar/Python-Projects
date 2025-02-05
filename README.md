@@ -14,7 +14,7 @@ Key Points:
 - The program calculates and prints the user's score as a percentage of total questions using print("You got " + str(score/6*100) + "%."). 
   
 OUTPUT:     
-
+  
 
 ![Screenshot 2024-08-11 143452](https://github.com/user-attachments/assets/2157db16-53ab-4f4e-945d-cb220615c1e6)
 
