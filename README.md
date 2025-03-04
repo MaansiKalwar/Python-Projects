@@ -1,6 +1,6 @@
 Python Practice Projects 
 ------------------   
-Quiz Game    
+Quiz Game      
 ------------------            
 Key Points:    
   
