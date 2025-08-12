@@ -1,6 +1,6 @@
 from cryptography.fernet import Fernet 
 import base64
- 
+  
 '''
 def write_key():
     key = Fernet.generate_key()
@@ -49,3 +49,4 @@ while True:
     else:
         print("Invalid mode.")
         continue 
+
