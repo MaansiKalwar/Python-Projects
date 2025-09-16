@@ -12,7 +12,7 @@ Key Points:
 - Each answer is compared to the correct response (case-insensitive). If correct, "Correct!" is printed, and the score is incremented by 1; otherwise, "Incorrect!" is displayed.
 - After all questions are answered, the program prints the total number of correct answers using print("You got " + str(score) + " questions correct!")
 - The program calculates and prints the user's score as a percentage of total questions using print("You got " + str(score/6*100) + "%."). 
-    
+     
 OUTPUT:         
         
  
