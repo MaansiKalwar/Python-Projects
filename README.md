@@ -3,7 +3,7 @@ Python Practice Projects
 Quiz Game      
 ------------------                       
 Key Points:    
-     
+ 
 - The program greets the user with "Welcome to my computer quiz!" and asks if they want to play the quiz using input().  
 - The user's response is checked; if they don't respond with "yes" (case-insensitive), the program terminates using quit(). 
 - If the user chooses to play, the game begins with a message, and the score variable is initialized to 0.  
